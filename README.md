@@ -199,10 +199,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [ ] Cloud synchronization
 - [ ] Advanced reporting features
 
-## 📞 Support
-
-For support, email achraf.elhoufi@example.com or create an issue in the GitHub repository.
-
 ---
 
 _Built with ❤️ using Python and PyQt5_
